@@ -1,2 +1,3 @@
-# pandas-gui
- Use Pandas GUI for quick EDA
+# Pandas Graphical User Interface
+
+ Use the `Pandas GUI` for quick Exploratory Data Analysis.
